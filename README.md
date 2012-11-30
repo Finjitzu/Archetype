@@ -15,6 +15,8 @@ A platforming puzzle game created by Travis Fincaryk. Shoot clones, activate swi
 * Left mouse button - hold to aim, release to shoot
 * Mouse wheel - control camera zoom
 
+There are 10 levels in total. This game autosaves at the start of each level. Feel free to take a break and finish it later. To delete save data reload the game and use the Delete Data button.
+
 ## Programs and Assets
 * The character was created and animated in Blender
 * Textures were created in GIMP
@@ -22,4 +24,8 @@ A platforming puzzle game created by Travis Fincaryk. Shoot clones, activate swi
 * [NGUI Assest Bundle](http://www.tasharen.com/?page_id=140)
 * [Affordable Audio 4 Everyone](http://www.affordableaudio4everyone.com/)
 
-Note: I haven't included the complete source project since some assets are purchased 3rd party add-ons (NGUI is amazing and worth the money). I've basically only included assets created by me.
+Note: I haven't included the complete source project since some assets are purchased 3rd party add-ons (NGUI is amazing and worth the money). I've basically only included assets created by me. There should be some handy scripts in there for some Unity coders.
+
+Feel free to check out my other games:
+* [Hoverbikes Are Rad](http://www.youtube.com/watch?v=bZbc2DelA9Y) - links in description
+* [MineSweeper Clone](https://dl.dropbox.com/u/77761952/MineSweeper/WebPlayer.html)
