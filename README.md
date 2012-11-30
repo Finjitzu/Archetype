@@ -1,6 +1,6 @@
 ## Archetype
 A platforming puzzle game created by Travis Fincaryk. Shoot clones, activate switches, avoid lazers and push blocks to advance.
-
+<img src="http://i.minus.com/jbvKd3rhl1vR2B_xs.jpg" style="border:0;">
 ## Controls
 * A - move left
 * D - move right
