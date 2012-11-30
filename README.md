@@ -7,6 +7,7 @@ A platforming puzzle game created by Travis Fincaryk. Shoot clones, activate swi
 * W - look up
 * S - look down
 * SPACE - jump
+* E - action
 * 1 - reset level
 * 2 - kill clone 2
 * 3 - kill clone 3
