@@ -1,18 +1,18 @@
-## Archetpye
+## Archetype
+A platforming puzzle game created by Travis Fincaryk. Shoot clones, activate switches, avoid lazers and push blocks to advance.
 
-A puzzle game created by Travis Fincaryk. Shoot clones, activate switches, avoid the lazers, push blocks to advance.
+## Controls
+A - move left
+D - move right
+W - look up
+S - look down
+SPACE - jump
+1 - reset level
+2 - kill clone 2
+3 - kill clone 3
+4 - kill clone 4
+5 - kill clone 5
 
-## The Challenge
-
-You have the entire month of November to create a **web-based** game *loosely* built around one or more of the following themes:
-
-* forking (or forks)
-* branching (or branches)
-* cloning (or clones)
-* pushing
-* pulling
-
-What do we mean by **loosely** based on these concepts? We literally mean, *loosely* based. Some examples might be a FPS where you throw forks at water balloons, an educational game about DNA cloning, or perhaps a platformer where you push and pull objects.
 
 Your game. Your rules. You can participate as an individual or as a team. You're encouraged to use open source libraries, frameworks, graphics, and sounds.
 
