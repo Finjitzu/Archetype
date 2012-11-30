@@ -2,16 +2,18 @@
 A platforming puzzle game created by Travis Fincaryk. Shoot clones, activate switches, avoid lazers and push blocks to advance.
 
 ## Controls
-A - move left
-D - move right
-W - look up
-S - look down
-SPACE - jump
-1 - reset level
-2 - kill clone 2
-3 - kill clone 3
-4 - kill clone 4
-5 - kill clone 5
+*A - move left
+*D - move right
+*W - look up
+*S - look down
+*SPACE - jump
+*1 - reset level
+*2 - kill clone 2
+*3 - kill clone 3
+*4 - kill clone 4
+*5 - kill clone 5
+*Left mouse button - hold to aim, release to shoot
+*Mouse wheel - control camera zoom
 
 
 Your game. Your rules. You can participate as an individual or as a team. You're encouraged to use open source libraries, frameworks, graphics, and sounds.
